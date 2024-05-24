@@ -1,5 +1,5 @@
 from email.message import EmailMessage 
-#from app2 import password  #輸入你取得的pw  ，影片沒有講app2內容是什麼....
+#from app2 import password  #輸入你取得的pw  
 import ssl
 import smtplib
 
